@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Blog\BlogLibrary\bin\Debug\BlogLibrary.dll
+C:\Users\User\source\repos\Blog\BlogLibrary\bin\Debug\BlogLibrary.pdb
+C:\Users\User\source\repos\Blog\BlogLibrary\obj\Debug\BlogLibrary.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Blog\BlogLibrary\obj\Debug\BlogLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Blog\BlogLibrary\obj\Debug\BlogLibrary.dll
+C:\Users\User\source\repos\Blog\BlogLibrary\obj\Debug\BlogLibrary.pdb
